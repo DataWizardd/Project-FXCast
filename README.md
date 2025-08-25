@@ -65,7 +65,7 @@
 <p align="center">
   <img width="820" alt="feature-corr-heatmap" src="https://github.com/user-attachments/assets/747bd093-bc56-4e2a-a44f-9a84a8240e8a" />
 </p>
----
+
 
 ## ✨ 결론
 - **뉴스 감성**과 **글로벌 이벤트 지표**는 베이스라인 대비 예측 성능 개선에 기여함.  
