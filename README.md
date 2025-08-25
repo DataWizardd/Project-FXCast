@@ -60,6 +60,11 @@
   <img width="950" alt="perm_importance_topk" src="https://github.com/user-attachments/assets/e399173a-8b69-442a-8a1e-8d78853fb7f7" />
 </p>
 
+
+### 3️⃣ 히트맵 (Correlation Heatmap)
+<p align="center">
+  <img width="820" alt="feature-corr-heatmap" src="https://github.com/user-attachments/assets/747bd093-bc56-4e2a-a44f-9a84a8240e8a" />
+</p>
 ---
 
 ## ✨ 결론
