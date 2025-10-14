@@ -1,6 +1,6 @@
 # FX News NLP Pipeline
 
-환율(FX) 관련 뉴스를 대상으로 전처리 → 카테고리 분류(직접/간접/무관) → 요약 → 감정 분석까지 수행하는 경량 파이프라인입니다. OpenAI GPT-4o-mini를 사용합니다.
+OpenAI GPT-4o-mini를 사용
 
 ## 구성요소
 
